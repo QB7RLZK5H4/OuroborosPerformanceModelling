@@ -11,3 +11,5 @@ Ouroboros Blockchain Protocols" submitted to [MARBLE 2026](https://www.marble-co
      * BulkServiceResultsCap_k**X**p_N176: files for k = **X**
      * BulkServiceResultsCap_k**X**p5_N176: files for k = **X**.5
 
+* Haskell files for plots from the extended ∆Q models: [src](src)
+
